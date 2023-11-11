@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/three": "^0.158.2",
+    "three": "^0.158.0",
+    "vanjs-core": "1.2.6"
+  }
+}
